@@ -48,7 +48,7 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 
 ## Selected Publications
 **[J1,2022][Sampling-based 3-D Line-of-Sight PWA Model Predictive Control for Autonomous Rendezvous and Docking with a Tumbling Target](https://github.com/dongtingli-hit/dongtingli-hit.github.io/settings/pages).**\
-**Dongting Li**, Ruiqi Dong, Yanning Guo\
+**Dongting Li***, Ruiqi Dong, Yanning Guo\
 ***ISA Transactions*, 2022.**\
 **[[paper]](https://github.com/dongtingli-hit/dongtingli-hit.github.io/settings/pages)**
 
