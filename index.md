@@ -1,14 +1,15 @@
-## Dongting Li（李东庭）
+## <font face="Times New Roman">Dongting Li</font> （李东庭）
 
 **Ph.D. student**
 
-**Department of Control Science and Engineering**
+**<font size=5>Department of Control Science and Engineering</font>**
+
 
 **School of Astronautics**
 
 **[Harbin Institute of Technology](http://en.hit.edu.cn/)**
 
-**Email: dalton.dtli@gmail.com; dtli@hit.edu.cn**
+**E-mail: dalton.dtli@gmail.com; dtli@hit.edu.cn**
 
 [<img src="/google_scholar.png" width = "50" height = "50" alt="图片名称" 
 align=center>](https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1)
@@ -16,10 +17,11 @@ align=center>](https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&a
 align=center>](https://www.researchgate.net/profile/Li-Dongting)
 [<img src="/orcid.jpeg" width = "50" height = "50" alt="图片名称" 
 align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
+---
+
 
 ### Biography
-
-**Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. In Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu). His current research interests include **multi-agent game theory and control**, **model predictive control**, **learning-based control** and **their applications in aerospace engineering**.
+**Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu). His current research interests include *multi-agent game theory and control*, *model predictive control*, *learning-based control* and *their applications in aerospace engineering*.**
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
