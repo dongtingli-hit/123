@@ -20,16 +20,16 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 
 
 ## Biography
-Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu).
+**Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu).**
 
-Dongting Li's current research interests include multi-agent game theory and control, model predictive control, learning-based control and their applications in aerospace engineering.
+**Dongting Li's current research interests include multi-agent game theory and control, model predictive control, learning-based control and their applications in aerospace engineering.**
 
 
 
 ## News
-### Our paper has been accepted to ISA Transactions(Q1, IF:5.911)
+- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
 
-## Jekyll Themes
+## Publications
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dongtingli-hit/dongtingli-hit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
