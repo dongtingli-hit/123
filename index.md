@@ -14,7 +14,7 @@
 align=center>
 <img src="/rg.png" width = "50" height = "50" alt="图片名称" 
 align=center>
-<img src="/orcid.jepg" width = "50" height = "50" alt="图片名称" 
+<img src="/orcid.jpeg" width = "50" height = "50" alt="图片名称" 
 align=center>
 
 ### Biography
