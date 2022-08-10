@@ -1,9 +1,8 @@
-## <font face="Times New Roman">Dongting Li</font> （李东庭）
+## Dongting Li（李东庭）
 
 **Ph.D. student**
 
-**<font size=5>Department of Control Science and Engineering</font>**
-
+**Department of Control Science and Engineering**
 
 **School of Astronautics**
 
@@ -21,7 +20,11 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 
 
 ### Biography
-**Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu). His current research interests include *multi-agent game theory and control*, *model predictive control*, *learning-based control* and *their applications in aerospace engineering*.**
+**Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu).**
+
+Dongting Li's current research interests include *multi-agent game theory and control*, *model predictive control*, *learning-based control* and *their applications in aerospace engineering*.
+---
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
