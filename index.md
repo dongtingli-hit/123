@@ -1,4 +1,4 @@
-## Dongting Li（李东庭）
+## Dongting Li（李东庭）[[CV]](/CV-dongtingli.pdf)
 
 **Ph.D. student**
 
