@@ -16,40 +16,20 @@ align=center>](https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&a
 align=center>](https://www.researchgate.net/profile/Li-Dongting)
 [<img src="/orcid.jpeg" width = "50" height = "50" alt="图片名称" 
 align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
----
 
 
-### Biography
-**Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu).**
 
-Dongting Li's current research interests include *multi-agent game theory and control*, *model predictive control*, *learning-based control* and *their applications in aerospace engineering*.
----
+## Biography
+Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu).
 
-### Markdown
+Dongting Li's current research interests include multi-agent game theory and control, model predictive control, learning-based control and their applications in aerospace engineering.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## News
+### Our paper has been accepted to ISA Transactions(Q1, IF:5.911)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
+## Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dongtingli-hit/dongtingli-hit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
