@@ -12,10 +12,10 @@
 
 [<img src="/google_scholar.png" width = "50" height = "50" alt="图片名称" 
 align=center>](https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1)
-<img src="/rg.png" width = "50" height = "50" alt="图片名称" 
-align=center>
-<img src="/orcid.jpeg" width = "50" height = "50" alt="图片名称" 
-align=center>
+[<img src="/rg.png" width = "50" height = "50" alt="图片名称" 
+align=center>](https://www.researchgate.net/profile/Li-Dongting)
+[<img src="/orcid.jpeg" width = "50" height = "50" alt="图片名称" 
+align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 
 ### Biography
 
