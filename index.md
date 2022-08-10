@@ -10,7 +10,7 @@
 
 **Email: dalton.dtli@gmail.com; dtli@hit.edu.cn**
 
-![Google Scholar](dongtingli/google_scholar.png)
+![Google Scholar](/google_scholar.png)
 
 ### Biography
 
