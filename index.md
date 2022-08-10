@@ -62,6 +62,9 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 <br>
 
 ---
-<center>©️Dongting Li</center>
  
 <center>Last update: Aug. 2022</center>
+
+<center>©️Dongting Li</center>
+
+**<center>Rigor and Mastery</center>**
