@@ -10,7 +10,10 @@
 
 **Email: dalton.dtli@gmail.com; dtli@hit.edu.cn**
 
-![Google Scholar](/google_scholar.png)
+<img src="/google_scholar.png" width = "50" height = "50" alt="图片名称" 
+align=center>
+<img src="/google_scholar.png" width = "50" height = "50" alt="图片名称" 
+align=center>
 
 ### Biography
 
