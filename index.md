@@ -29,10 +29,18 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 ## News
 - [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
 
-## Publications
+## Selected Publications
+**[Sampling-based 3-D Line-of-Sight PWA Model Predictive Control for Autonomous Rendezvous and Docking with a Tumbling Target](https://github.com/dongtingli-hit/dongtingli-hit.github.io/settings/pages).**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dongtingli-hit/dongtingli-hit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Dongting Li**, Ruiqi Dong, Yanning Guo
 
-### Support or Contact
+**ISA Transactions, 2022.**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**[[paper]](https://github.com/dongtingli-hit/dongtingli-hit.github.io/settings/pages)**
+
+## Professional Services
+**Journal reviews:**
+- **ISA Transactions**
+- **Aerospace Science and Technology**
+---
+<center>©️Dongting Li || Last update: Aug. 2022</center>
