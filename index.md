@@ -10,8 +10,8 @@
 
 **Email: dalton.dtli@gmail.com; dtli@hit.edu.cn**
 
-<img src="/google_scholar.png" width = "50" height = "50" alt="图片名称" 
-align=center>
+[<img src="/google_scholar.png" width = "50" height = "50" alt="图片名称" 
+align=center>](https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1)
 <img src="/rg.png" width = "50" height = "50" alt="图片名称" 
 align=center>
 <img src="/orcid.jpeg" width = "50" height = "50" alt="图片名称" 
