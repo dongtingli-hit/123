@@ -78,6 +78,7 @@ align=center>](https://www.linkedin.cn/incareer/in/%E4%B8%9C%E5%BA%AD-%E6%9D%8E-
 **Journal reviews:**
 - **ISA Transactions**
 - **Aerospace Science and Technology**
+- **Advanced Control for Applications**
 <br>
 
 ---
