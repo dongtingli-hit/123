@@ -22,6 +22,9 @@ align=center>](https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&a
 align=center>](https://www.researchgate.net/profile/Li-Dongting)
 [<img src="/orcid.jpeg" width = "50" height = "50" alt="Orcid" 
 align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
+[<img src="/LinkedIn_s.png" width = "50" height = "50" alt="Linkedin" 
+align=center>](https://www.linkedin.cn/incareer/in/%E4%B8%9C%E5%BA%AD-%E6%9D%8E-35966a248)
+
 
 <br>
 
