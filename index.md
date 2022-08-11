@@ -62,9 +62,9 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 ***Harbin Institute of Technology*, 2021.**\
 **[[paper]](/masterthesis.pdf)**
 
-**[C1, 2021] [Nonlinear Model Predictive Control for Spacecraft Attitude Tracking with Kalman Filter](https://ieeexplore.ieee.org/abstract/document/9326718).**\
+**[C1, 2020] [Nonlinear Model Predictive Control for Spacecraft Attitude Tracking with Kalman Filter](https://ieeexplore.ieee.org/abstract/document/9326718).**\
 **Dongting Li**, Ai-Guo Wu*, Peng Li\
-***China Automation Congress*, 2021.**\
+***China Automation Congress*, 2020.**\
 **[[paper]](/2021c1.pdf)**
 
 ***indicates corresponding authorship**
