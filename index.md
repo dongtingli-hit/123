@@ -57,6 +57,11 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 ***ISA Transactions*, 2022.**\
 **[[paper]](https://github.com/dongtingli-hit/dongtingli-hit.github.io/settings/pages)**
 
+**[Thesis of M.Eng,2021][Visual Pose Estimation and Model Predictive Control for Rendezvous and Docking with a Non-Cooperative Target (In Chinese)](/masterthesis.pdf).**\
+**Dongting Li***
+***Harbin Institute of Technology*, 2021.**\
+**[[paper]](/masterthesis.pdf)**
+
 ***indicates corresponding authorship**
 <br>
 
