@@ -16,13 +16,13 @@
 
 **WeChat: hey_dalton**
 
-[<img src="/google_scholar.png" width = "50" height = "50" alt="Google Scholar" 
+[<img src="/google_scholar.png" width = "40" height = "40" alt="Google Scholar" 
 align=center>](https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1)
-[<img src="/rg.png" width = "50" height = "50" alt="Researchgate" 
+[<img src="/rg.png" width = "40" height = "40" alt="Researchgate" 
 align=center>](https://www.researchgate.net/profile/Li-Dongting)
-[<img src="/orcid.jpeg" width = "50" height = "50" alt="Orcid" 
+[<img src="/orcid.jpeg" width = "40" height = "40" alt="Orcid" 
 align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
-[<img src="/LinkedIn_s.png" width = "50" height = "50" alt="Linkedin" 
+[<img src="/LinkedIn_s.png" width = "40" height = "40" alt="Linkedin" 
 align=center>](https://www.linkedin.cn/incareer/in/%E4%B8%9C%E5%BA%AD-%E6%9D%8E-35966a248)
 
 
