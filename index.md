@@ -42,30 +42,8 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 <br>
 
 ## News
-<style>
- pre{
-   overflow-y: auto;
-   max-height: 300px;
- }
- </style>
- 
- ```css
-- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
+- [08/2022]  Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
 
-- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
-
-- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
-
-- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
-
-- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
-
-- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
-
-- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
-
-- [Aug.2022] Our paper has been accepted to ISA Transactions(Q1, IF:5.911).
-```
 <br>
 
 ## Selected Publications
