@@ -1,9 +1,4 @@
-## Dongting Li（李东庭）[[CV]](/CV-dongtingli.pdf) [<img src="/google_scholar.png" width = "50" height = "50" alt="Google Scholar" 
-align=center>](https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1)
-[<img src="/rg.png" width = "50" height = "50" alt="Researchgate" 
-align=center>](https://www.researchgate.net/profile/Li-Dongting)
-[<img src="/orcid.jpeg" width = "50" height = "50" alt="Orcid" 
-align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
+## Dongting Li（李东庭）[[CV]](/CV-dongtingli.pdf)  
 
 **Ph.D. student**
 
@@ -47,26 +42,8 @@ align=center>](https://orcid.org/my-orcid?orcid=0000-0002-8942-7400)
 <br>
 
 ## News
+**-[08/2022] Our paper has been accepted to ISA Transactions (Q1, IF:5.911). **
 
-<table class="table table-bordered table-striped table-condensed"> 
-<div style="overflow-x: auto; overflow-y: auto; height: 100px; width:700px;">
-    <table id="table" border="1" align="center" width="700px" height="200px">
-  <tbody>
-   <tr><td> [08/2022] Our paper has been accepted to ISA Transactions (Q1, IF:5.911). &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td></tr>
-<tr><td>Waiting  </td></tr>
-<tr><td>Waiting  </td></tr>
-<tr><td>Waiting  </td></tr>
-   <tr><td>Waiting  </td></tr>
-   <tr><td>Waiting  </td></tr>
-   <tr><td>Waiting  </td></tr>
-   <tr><td>Waiting  </td></tr>
-
-   
-  </tbody>
-  
- </table>
-  </body>
-  </div>
 <br>
 
 
